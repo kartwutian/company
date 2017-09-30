@@ -1,0 +1,61 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.ttf?t=1500005672349') format('truetype');
+}
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:20px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+}
+
+.iconfont[class^="icon-"]:before, .iconfont[class*=" icon-"]:before {
+    font-family: 'iconfont';
+    font-size: inherit;
+    padding: 0.16rem;
+}
+
+.icon-icon:before { content: "\e61b"; }
+
+.icon-star:before { content: "\e666"; }
+
+.icon-download:before { content: "\e61d"; }
+
+.icon-link:before { content: "\e6c9"; }
+
+.icon-underline:before { content: "\e70b"; }
+
+.icon-text-align-right:before { content: "\e6a9"; }
+
+.icon-close:before { content: "\e6e4"; }
+
+.icon-smile:before { content: "\e60c"; }
+
+.icon-close1:before { content: "\e651"; }
+
+.icon-coupon:before { content: "\e616"; }
+
+.icon-fontsize:before { content: "\e60e"; }
+
+.icon-shop:before { content: "\e7ec"; }
+
+.icon-edit:before { content: "\e61e"; }
+
+.icon-font_:before { content: "\e749"; }
+
+.icon-Undo:before { content: "\e6b5"; }
+
+.icon-text-align-left:before { content: "\e75e"; }
+
+.icon-Redo:before { content: "\e88c"; }
+
+.icon-text-align-center:before { content: "\e714"; }
+
+.icon-text_bold:before { content: "\e65b"; }
+
+.icon-italic:before { content: "\e600"; }
+
+.icon-huopinshoufacunchaxun:before { content: "\e63e"; }
+
