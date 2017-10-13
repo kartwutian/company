@@ -1,6 +1,6 @@
 # company
 
-> A Vue.js project
+> A Vue.js project 用vue-demo重构，这个结构基本放弃了
 
 ## Build Setup
 
